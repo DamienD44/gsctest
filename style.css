@@ -84,7 +84,7 @@ header h6 {
 }
 .propos-container {
 	display: flex;
-	flex-direction: column; /* Garde la disposition en ligne */
+	flex-direction: row; /* Garde la disposition en ligne */
 	gap: 10px; /* Réduit l'espace entre l'image et l'aside */
 }
 
